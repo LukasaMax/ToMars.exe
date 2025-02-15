@@ -21,4 +21,12 @@ HOW TO INSTALL THIS:
 
 HOW DO I GET RID OF THIS?
 
-To get rid of this stupid ransomeware of your pc while its on, press ctrl+shift+esc then end the microsoft vbs task thingy, next run task, and put explorer.exe and you have fixed your pc, HOWEVER if you have gotten all the keys wrong there is no hope for you unless some gitch happens because all your files have gone!
+Simply type in the key: 0000-0000-0000
+
+and it unlocks
+
+CodeBoxGlitched or not working!!1!!
+
+Press ctrl+shift+escp, next runtask explorer.exe Now if there is, destroy the microsoft popup thing. Boom your done
+
+Everything is gone, or its laggier than usual on my machine, You cannot fix this because the malware have deleted some files
